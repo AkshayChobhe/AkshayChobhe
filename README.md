@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/akshay_chobhe7" target="blank"><img src="https://img.shields.io/twitter/follow/akshay_chobhe7?logo=twitter&style=for-the-badge" alt="akshay_chobhe7" /></a> </p>
 
-- 🔭 I’m currently working on **Covid-19 Tracker App**
+- 🔭 I’m currently working on **Developing an app**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Data Structures & Algorithms**
 
 - 💬 Ask me about **Android, Python, Java, XML**
 
