@@ -6,7 +6,7 @@
 ---
 
 - 🎓 I am Akshay Chobhe, currently pursuing a B.E. degree in Computer Science at DYPCOE, Akurdi, Pune. <br/>
-- 👾 I really enjoy learning new languages and creating UI design.<br/>
+- 👾 I really enjoy designing pages or activities in the application.<br/>
 - ❤️‍🔥 I love to do exciting projects.<br/> 
 - 🎮 **By passion, I'm a devoted gamer.**
 
@@ -23,7 +23,7 @@
  <img alt="android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
  <img alt="pandas" src="https://camo.githubusercontent.com/5e18e9b742657f6921829e31b6ee09d5d345633d8680cf1881f637d8e7bc44f1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50616e6461732d3243324437323f7374796c653d666f722d7468652d6261646765266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465" />
  <img alt="numpy" src="https://img.shields.io/badge/numpy-red?logo=numpy&logoColor=white&style=for-the-badge" />
-  <img alt="android" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   
 </p>
 
@@ -54,10 +54,10 @@
 ### Recent Projects 👨‍💻
 
 <div align="center">
-<img src="https://github.com/AkshayChobhe/CalculatorPro&show_icons=true&theme=aura_dark"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Laxmikantathare&repo=Spam_Mail_Detection&show_icons=true&theme=dracula"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Laxmikantathare&repo=Gamentech-Blogs&show_icons=true&theme=dracula"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Laxmikantathare&repo=Getweathy&show_icons=true&theme=aura_dark">                                                                                                                                    
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayChobhe&repo=CalculatorPro&show_icons=true&theme=dracula"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayChobhe&repo=Jarvis&show_icons=true&theme=dracula"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayChobhe&repo=MahaNews&show_icons=true&theme=dracula"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayChobhe&repo=UnConvertApp&show_icons=true&theme=aura_dark">                                                                                                                                    
 </div>
 
                                                                                                  
