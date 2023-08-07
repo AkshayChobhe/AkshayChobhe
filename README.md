@@ -1,37 +1,63 @@
-[![MasterHead](https://camo.githubusercontent.com/5346f5a9b63e9e93ff8265ebb05eeda7fc03e48dfe766ba177c788e5c65c6c86/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51434c63424741735948512f73313630302f323030305f36303070782e676966)]([https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png])
-<h1 align="center">Hi 👋, I'm Akshay Chobhe</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akshay Chobhe</h1>
 <h3 align="center">A passionate Android Developer..</h3>
 
+![MasterHead](https://camo.githubusercontent.com/5346f5a9b63e9e93ff8265ebb05eeda7fc03e48dfe766ba177c788e5c65c6c86/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51434c63424741735948512f73313630302f323030305f36303070782e676966)
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaychobhe&label=Profile%20views&color=0e75b6&style=flat" alt="akshaychobhe" /> </p>
+- 🎓 I am Akshay Chobhe, currently pursuing a B.E. degree in Computer Science at DYPCOE, Akurdi, Pune. <br/>
+- 👾 I really enjoy learning new languages and creating UI design.<br/>
+- ❤️‍🔥 I love to do exciting projects.<br/> 
+- 🎮 **By passion, I'm a devoted gamer.**
 
-<p align="left"> <a href="https://twitter.com/akshay_chobhe7" target="blank"><img src="https://img.shields.io/twitter/follow/akshay_chobhe7?logo=twitter&style=for-the-badge" alt="akshay_chobhe7" /></a> </p>
-
-- 🔭 I’m currently working on **Developing an app**
-
-- 🌱 I’m currently learning **Data Structures & Algorithms**
-
-- 💬 Ask me about **Android, Python, Java, XML**
-
-- 📫 How to reach me **chobheakshay30@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/akshay_chobhe7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshay_chobhe7" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/akshay-chobhe-989004220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay chobhe" height="30" width="40" /></a>
-<a href="https://instagram.com/akshay_chobhe_30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshay_chobhe_30" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@animelover0060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ruekendo gamers" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aksh_301" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aksh_301" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/chobheakshay30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chobheakshay30" height="30" width="40" /></a>
+##                                ⚒️ Technical Skills:
+<br>
+<p align="center"> 
+  <img alt="C++" src="https://img.shields.io/badge/c++-%23ED8B00.svg?&style=for-the-badge&logo=C++&logoColor=red" />
+ <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+ <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+ <img alt="MySQL" src="https://img.shields.io/badge/MySQL-gray?style=for-the-badge&logo=mysql&logoColor=4EA94B" />
+<img alt="android_studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+ <img alt="jupyter" src="https://img.shields.io/badge/jupyter-orange?logo=jupyter&logoColor=white&style=for-the-badge" />
+ <img alt="android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+ <img alt="pandas" src="https://camo.githubusercontent.com/5e18e9b742657f6921829e31b6ee09d5d345633d8680cf1881f637d8e7bc44f1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50616e6461732d3243324437323f7374796c653d666f722d7468652d6261646765266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465" />
+ <img alt="numpy" src="https://img.shields.io/badge/numpy-red?logo=numpy&logoColor=white&style=for-the-badge" />
+  <img alt="android" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+| <img src="https://github-readme-stats.vercel.app/api?username=AkshayChobhe&show_icons=true&theme=codeSTACKr"> | </img><img src="http://github-readme-streak-stats.herokuapp.com/?user=AkshayChobhe&theme=merko &border_radius=0.1)"/> |
+|---|---|
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaychobhe&show_icons=true&locale=en&layout=compact" alt="akshaychobhe" /></p>
+## 🤝 Connect with me  
+<div align="center">
+ <a href="http://www.linkedin.com/in/akshay-chobhe-989004220/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaychobhe&show_icons=true&locale=en" alt="akshaychobhe" /></p>
+<a href="https://github.com/AkshayChobhe" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaychobhe&" alt="akshaychobhe" /></p>
+<a href="https://www.instagram.com/akshay_chobhe_30/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-indigo?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+
+<a href="http://discordapp.com/users/UserID/742072110892974152" target="_blank">
+<img src=https://img.shields.io/badge/discord-blue?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
+</a>
+</div>
+
+### Recent Projects 👨‍💻
+
+<div align="center">
+<img src="https://github.com/AkshayChobhe/CalculatorPro&show_icons=true&theme=aura_dark"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Laxmikantathare&repo=Spam_Mail_Detection&show_icons=true&theme=dracula"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Laxmikantathare&repo=Gamentech-Blogs&show_icons=true&theme=dracula"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Laxmikantathare&repo=Getweathy&show_icons=true&theme=aura_dark">                                                                                                                                    
+</div>
+
+                                                                                                 
