@@ -6,7 +6,7 @@
 ---
 
 - 🎓 I am Akshay Chobhe, currently pursuing a B.E. degree in Computer Science at DYPCOE, Akurdi, Pune. <br/>
-- 👾 I really enjoy designing pages or activities in the application.<br/>
+- 👾 I really enjoy designing pages and activities in the application.<br/>
 - ❤️‍🔥 I love to do exciting projects.<br/> 
 - 🎮 **By passion, I'm a devoted gamer.**
 
@@ -38,12 +38,12 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://github.com/AkshayChobhe" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-
 <a href="https://www.instagram.com/akshay_chobhe_30/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-indigo?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.hackerrank.com/chobheakshay30?hr_r=1" target="_blank">
+<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
 </a>
 
 <a href="http://discordapp.com/users/UserID/742072110892974152" target="_blank">
