@@ -53,10 +53,11 @@
 
 ### Recent Projects 👨‍💻
 
+<!-- themes = light, dracula, dark, aura_dark -->
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayChobhe&repo=CalculatorPro&show_icons=true&theme=dracula"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayChobhe&repo=Jarvis&show_icons=true&theme=dracula"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayChobhe&repo=MahaNews&show_icons=true&theme=dracula"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayChobhe&repo=CalculatorPro&show_icons=true&theme=aura_dark"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayChobhe&repo=Jarvis&show_icons=true&theme=aura_dark"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayChobhe&repo=MahaNews&show_icons=true&theme=aura_dark"> 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayChobhe&repo=UnConvertApp&show_icons=true&theme=aura_dark">                                                                                                                                    
 </div>
 
