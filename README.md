@@ -57,9 +57,9 @@
 
 <!-- themes = light, dracula, dark, aura_dark -->
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayChobhe&repo=To-Do-App&show_icons=true&theme=dark"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayChobhe&repo=Jarvis&show_icons=true&theme=dark"> 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayChobhe&repo=MahaNews&show_icons=true&theme=dark"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayChobhe&repo=Jarvis&show_icons=true&theme=dark"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayChobhe&repo=To-Do-App&show_icons=true&theme=dark"> 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayChobhe&repo=UnConvertApp&show_icons=true&theme=dark">                                                                                                                                    
 </div>
 
