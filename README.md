@@ -1,8 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akshay Chobhe</h1>
 <h3 align="center">A passionate Android Developer..</h3>
 
-![MasterHead](https://github.com/AkshayChobhe/AkshayChobhe/blob/main/coding.gif)
-
+<p align="center">
+  <img src="https://github.com/AkshayChobhe/AkshayChobhe/blob/main/coding.gif" alt="animated" width="450px"/>
+</p>
 ---
 
 - 🎓 I am Akshay Chobhe, currently pursuing a B.E. degree in Computer Science at DYPCOE, Akurdi, Pune. <br/>
