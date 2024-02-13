@@ -19,7 +19,7 @@
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img alt="php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+<!-- <img alt="php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /> -->
  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-gray?style=for-the-badge&logo=mysql&logoColor=4EA94B" />
 <img alt="android_studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
  <img alt="jupyter" src="https://img.shields.io/badge/jupyter-orange?logo=jupyter&logoColor=white&style=for-the-badge" />
@@ -58,12 +58,13 @@
 
 <!-- themes = light, dracula, dark, aura_dark -->
 <div align="center">
-<a href="https://github.com/AkshayChobhe/MahaNews" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayChobhe&repo=MahaNews&show_icons=true&theme=dark">
-</a>
 
 <a href="https://github.com/AkshayChobhe/Face-Detection-App" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayChobhe&repo=Face-Detection-App&show_icons=true&theme=dark">  
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayChobhe&repo=Face-Detection-App&theme=dark">  
+</a>
+
+<a href="https://github.com/AkshayChobhe/MahaNews" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayChobhe&repo=MahaNews&show_icons=true&theme=dark">
 </a>
 
 <a href="https://github.com/AkshayChobhe/Jarvis" target="_blank">
