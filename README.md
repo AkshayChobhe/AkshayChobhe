@@ -58,10 +58,21 @@
 
 <!-- themes = light, dracula, dark, aura_dark -->
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayChobhe&repo=MahaNews&show_icons=true&theme=dark"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayChobhe&repo=Jarvis&show_icons=true&theme=dark"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayChobhe&repo=To-Do-App&show_icons=true&theme=dark"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayChobhe&repo=UnConvertApp&show_icons=true&theme=dark">                                                                                                                                    
+<a href="https://github.com/AkshayChobhe/MahaNews" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayChobhe&repo=MahaNews&show_icons=true&theme=dark">
+</a>
+  
+<a href="https://github.com/AkshayChobhe/Face-Detection-App" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayChobhe&repo=Face-Detection-App&show_icons=true&theme=dark">
+</a>  
+
+<a href="https://github.com/AkshayChobhe/Jarvis" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayChobhe&repo=Jarvis&show_icons=true&theme=dark">
+</a>
+
+<a href="https://github.com/AkshayChobhe/To-Do-App" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayChobhe&repo=To-Do-App&show_icons=true&theme=dark">
+</a>
 </div>
 
                                                                                                  
