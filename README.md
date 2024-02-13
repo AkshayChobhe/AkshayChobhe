@@ -61,10 +61,10 @@
 <a href="https://github.com/AkshayChobhe/MahaNews" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayChobhe&repo=MahaNews&show_icons=true&theme=dark">
 </a>
-  
-<a href="https://github.com/AkshayChobhe/Face-Detection-App" target="_blank">
 
-</a>  
+<a href="https://github.com/AkshayChobhe/Face-Detection-App" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayChobhe&repo=Face-Detection-App&show_icons=true&theme=dark">  
+</a>
 
 <a href="https://github.com/AkshayChobhe/Jarvis" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayChobhe&repo=Jarvis&show_icons=true&theme=dark">
